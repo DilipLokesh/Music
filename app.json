@@ -1,7 +1,7 @@
 {
-	"name": "HellMusic",
-	"description": "A telegram voice chat music player bot by The-Hellbot, coded in python using Pyrogram and PyTgCalls",
-	"logo": "https://te.legra.ph/file/7decf235312af8536e9aa.jpg",
+	"name": "DMusic",
+	"description": "A telegram voice chat music player bot by Kargil, coded in python using Pyrogram and PyTgCalls",
+	"logo": "https://telegra.ph/file/57f8d5da514132539daef.jpg",
 	"keywords": [
 		"telegram",
 		"musicbot",
@@ -14,7 +14,7 @@
 		"music",
 		"hellbot"
 	],
-	"repository": "https://github.com/The-HellBot/HellMusic/",
+	"repository": "https://github.com/disneyteam76",
 	"env": {
         "API_HASH": {
             "description": "Get this value from my.telegram.org",
@@ -26,7 +26,7 @@
 		},
 		"BOT_NAME": {
 			"description": "Name of bot to display on Thumbnail. Don't use fancy texts. Use plain text only.",
-			"value": "@Music_HellBot"
+			"value": "@Music_by_kargil_bot"
 		},
 		"BOT_TOKEN": {
 			"description": "Make a bot from @BotFather and paste the bot token here.",
